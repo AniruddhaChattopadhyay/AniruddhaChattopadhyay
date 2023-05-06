@@ -10,7 +10,7 @@ I graduated from IIT Kharagpur in 2022 with a B. Tech + M. Tech in Quality Engin
 
 I am a technology enthusiast and have participated in a lot of National hackathons. I have won a few of them. One of the android apps [Care4U](https://www.indiatoday.in/education-today/news/story/iit-kharagpur-students-create-ai-mobile-app-for-elderly-which-can-become-a-digital-caregiver-1572304-2019-07-22) that my team built during a hackathon got a lot of media coverage and appreciation. 
 
-Feel free to hit me up on any of the above mentioned socials. I will be looking forward to interacting with folks with similar interests.  
+Feel free to hit me up on any of the above mentioned socials. I will be looking forward to interacting with you folks.  
 
 ---
 
