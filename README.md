@@ -32,7 +32,7 @@ Environments/Platforms
 
 📈 My GitHub Stats
 
-![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniruddhaChattopadhyay&hide=contribs&count_private=true&show_icons=true&theme=radical)  
+![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniruddhaChattopadhyay&count_private=true&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaChattopadhyay&theme=radical&hide=jupyter%20notebook&langs_count=6&layout=compact)
 
 Thanks to [Anurag Hazra](https://github.com/anuraghazra) for [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) which automatically gathers stats and displays them beautifully.  
