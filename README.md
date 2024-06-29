@@ -4,13 +4,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AniruddhaChattopadhyay?style=social)](https://github.com/AniruddhaChattopadhyay) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-chattopadhyay/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:studyaniruddha@gmail.com)  
 
-I work in the founder's office at Maxim AI leading the applied AI efforts. At Maxim, we are building an enterprise-grade generative AI evaluation and observability platform to empower modern AI teams to ship their applications with quality, reliability, and speed. Our developer stack comprises tools for prompt engineering, pre-release and post-release testing/monitoring, data management, and fine-tuning, including for the last mile of human-in-the-loop. Prior to this I was working as a data scientist at AB InBev.
+I work in the founder's office at [Maxim AI](https://www.getmaxim.ai/), leading the applied AI efforts. At Maxim, we are building an enterprise-grade generative AI evaluation and observability platform to empower modern AI teams to ship their applications with quality, reliability, and speed. Our developer stack comprises tools for prompt engineering, pre-release and post-release testing/monitoring, data management, and fine-tuning, including for the last mile of human-in-the-loop. Prior to this, I was a data scientist at AB InBev.
 
-I graduated from IIT Kharagpur in 2022 with a B. Tech + M. Tech in Quality Engineering Design and Manufacturing (Industrial Electronics Vertical) with a Minor in Computer Science and Engineering, and a Micro-Specialization in Artificial Intelligence and its Applications. During my college years, I interned at AB InBev, HSBC, Bluebeak.AI, Lubble to gain meaningful exposure to Data Science and software development. 
+I graduated from IIT Kharagpur in 2022 with a B. Tech + M. Tech in Quality Engineering Design and Manufacturing (Industrial Electronics Vertical) with a Minor in Computer Science and Engineering and a Micro-Specialization in Artificial Intelligence and its Applications. During my college years, I interned at AB InBev, HSBC, Bluebeak.AI, and Lubble to gain meaningful Data Science and software development exposure. 
 
-I am a technology enthusiast and have participated in a lot of National hackathons. I have won a few of them. One of the android apps [Care4U](https://www.indiatoday.in/education-today/news/story/iit-kharagpur-students-create-ai-mobile-app-for-elderly-which-can-become-a-digital-caregiver-1572304-2019-07-22) that my team built during a hackathon got a lot of media coverage and appreciation. 
+I am a technology enthusiast and have participated in many National hackathons, winning a few of them. One of the Android apps [Care4U](https://www.indiatoday.in/education-today/news/story/iit-kharagpur-students-create-ai-mobile-app-for-elderly-which-can-become-a-digital-caregiver-1572304-2019-07-22) that my team built during a hackathon got some media coverage and appreciation. 
 
-Feel free to hit me up on any of the above mentioned socials. I will be looking forward to interacting with you folks.  
+Feel free to contact me on any of the above-mentioned social media. I look forward to interacting with you.  
 
 ---
 
