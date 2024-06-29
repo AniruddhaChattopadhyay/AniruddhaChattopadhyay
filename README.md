@@ -29,7 +29,6 @@ Environments/Platforms
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda logo" width="50" height="50" /> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="50" height="50" /> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA logo" width="50" height="50" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab logo" width="50" height="50" />  
 
 ---
-<!--
 📈 My GitHub Stats
 
 ![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniruddhaChattopadhyay&count_private=true&show_icons=true&theme=radical)  
@@ -41,6 +40,5 @@ Thanks to [Anurag Hazra](https://github.com/anuraghazra) for [github-readme-stat
 
 Credits to [Catalin Pit](https://www.youtube.com/watch?v=p5hf8i-OzlQ) for the tutorial on making a good README for the GitHub profile.
 
--->
 
 
